@@ -2,7 +2,7 @@
 🧾**SmartReceipt**.NET is a C# application designed to scan receipts and extract essential purchase information.
 
 
-### E - Issue / Environment
+##  E - Issue
 
 1. Most receipt scanning apps collect user data and may share it with third parties, exposing users to unwanted advertising.
 2. Many receipts accumulate without providing meaningful insight into daily expenses or spending habits.
@@ -10,9 +10,10 @@
 4. People may not know which purchases are driven by necessity versus emotional spending.
 
 
-### S - Solution / Strategy
+## S - Solution
 
-MVP Expectations:
+
+### MVP Expectations:
   1. Users can upload images of receipts for processing.
   2. The application automatically identifies and displays:
   3. Date of purchase
@@ -20,3 +21,19 @@ MVP Expectations:
   5. Itemized list of purchased products with prices
   6. Provides a clear, easy-to-read summary of expenses.
   7. Protects user privacy by ensuring that no personal information is collected or shared.
+
+
+<img width="400" height="400" alt="simple uml diagram" src="https://github.com/user-attachments/assets/1f39d3d7-c867-4197-a0d6-24d4d313f801" />
+
+
+
+## P - Proposal / Plan / Payoff
+
+### Plan (MVP):
+1. Accept receipt images as input.
+2. Extract the date, total, and itemized list from the image.
+3. Display the extracted information in the console or simple interface.
+
+### Payoff:
+1. Helps users understand and track their spending at a glance.
+2. Serves as a foundation for future enhancements like reporting, analytics, or integrations.
