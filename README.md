@@ -37,3 +37,10 @@
 ### Payoff:
 1. Helps users understand and track their spending at a glance.
 2. Serves as a foundation for future enhancements like reporting, analytics, or integrations.
+
+
+## ✅ Features
+1. Home page & receipt list pages.
+2. Upload Receipt
+3. Review expenses
+4. *Authentication
