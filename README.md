@@ -23,7 +23,7 @@
   7. Protects user privacy by ensuring that no personal information is collected or shared.
 
 
-<img width="400" height="400" alt="simple uml diagram" src="https://github.com/user-attachments/assets/1f39d3d7-c867-4197-a0d6-24d4d313f801" />
+<img width="684" height="548" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics drawio" src="https://github.com/user-attachments/assets/7cc081eb-f5ea-4eee-9141-89abd756e1d7" />
 
 
 
@@ -37,6 +37,10 @@
 ### Payoff:
 1. Helps users understand and track their spending at a glance.
 2. Serves as a foundation for future enhancements like reporting, analytics, or integrations.
+
+<img width="682" height="546" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics -Software Architecture Diagram" src="https://github.com/user-attachments/assets/001d86f6-cdf5-4b98-ace8-b33edd05d3e3" />
+
+
 
 
 ## ✅ Features
