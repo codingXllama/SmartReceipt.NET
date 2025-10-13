@@ -1,6 +1,18 @@
 # SmartReceipt.NET
 🧾**SmartReceipt**.NET is a C# application designed to scan receipts and extract essential purchase information.
 
+## Table of Contents
+
+1. [SmartReceipt.NET](#smartreceiptnet)
+2. [E - Issue](#-e---issue)
+3. [S - Solution](#-s---solution)
+    - [MVP Expectations](#mvp-expectations)
+4. [P - Proposal / Plan / Payoff](#-p---proposal--plan--payoff)
+    - [Plan (MVP)](#plan-mvp)
+    - [Payoff](#payoff)
+5. [Software Architecture Diagram](#-software-architecture-diagram)
+6. [Class Diagram](#class-diagram)
+7. [Features](#-features)
 
 
 ##  E - Issue
@@ -12,7 +24,6 @@
 
 
 ## S - Solution
-
 
 ### MVP Expectations:
   1. Users can upload images of receipts for processing.
@@ -42,7 +53,6 @@
 
 ## Class Diagram
 <img width="711" height="1994" alt="image" src="https://github.com/user-attachments/assets/40894ab4-09fd-464e-bea5-b329885d0642" />
-
 
 
 
