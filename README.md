@@ -52,7 +52,7 @@
 
 
 ## Class Diagram
-<img width="711" height="1994" alt="image" src="https://github.com/user-attachments/assets/40894ab4-09fd-464e-bea5-b329885d0642" />
+<img width="656" height="1014" alt="image" src="https://github.com/user-attachments/assets/22894050-81bb-4eab-a16f-75aaf4c7a733" />
 
 
 
