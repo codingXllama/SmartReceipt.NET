@@ -2,6 +2,7 @@
 🧾**SmartReceipt**.NET is a C# application designed to scan receipts and extract essential purchase information.
 
 
+
 ##  E - Issue
 
 1. Most receipt scanning apps collect user data and may share it with third parties, exposing users to unwanted advertising.
@@ -20,11 +21,7 @@
   4. Total amount spent
   5. Itemized list of purchased products with prices
   6. Provides a clear, easy-to-read summary of expenses.
-  7. Protects user privacy by ensuring that no personal information is collected or shared.
-
-
-<img width="684" height="548" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics drawio" src="https://github.com/user-attachments/assets/7cc081eb-f5ea-4eee-9141-89abd756e1d7" />
-
+  7. * Protects user privacy by ensuring that no personal information is collected or shared.
 
 
 ## P - Proposal / Plan / Payoff
@@ -38,7 +35,13 @@
 1. Helps users understand and track their spending at a glance.
 2. Serves as a foundation for future enhancements like reporting, analytics, or integrations.
 
-<img width="682" height="546" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics -Software Architecture Diagram" src="https://github.com/user-attachments/assets/001d86f6-cdf5-4b98-ace8-b33edd05d3e3" />
+
+##  Software Architecture Diagram
+<img width="684" height="548" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics drawio" src="https://github.com/user-attachments/assets/7cc081eb-f5ea-4eee-9141-89abd756e1d7" />
+
+
+## Class Diagram
+<img width="711" height="1994" alt="image" src="https://github.com/user-attachments/assets/40894ab4-09fd-464e-bea5-b329885d0642" />
 
 
 
