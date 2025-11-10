@@ -48,11 +48,16 @@
 
 
 ##  Software Architecture Diagram
-<img width="684" height="548" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics drawio" src="https://github.com/user-attachments/assets/7cc081eb-f5ea-4eee-9141-89abd756e1d7" />
+
+<img width="684" height="548" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics drawio" src="https://github.com/user-attachments/assets/7cc081eb-f5ea-4eee-9141-89abd756e1d7" > 
+
 
 
 ## Class Diagram
-<img width="656" height="1014" alt="image" src="https://github.com/user-attachments/assets/22894050-81bb-4eab-a16f-75aaf4c7a733" />
+## <img width="656" height="1014" alt="image" src="https://github.com/user-attachments/assets/22894050-81bb-4eab-a16f-75aaf4c7a733" />
+
+<img width="4370" height="1084" alt="smartReceiptApp-Class Diagram" src="https://github.com/user-attachments/assets/68568271-12d8-4eca-9535-ea0f4cf67525" />
+
 
 
 
