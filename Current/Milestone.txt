@@ -1,0 +1,33 @@
+In Summary, here is the Big Picture of this application:
+
+1. User uploads a receipt image 
+2. Backend stores the image
+3. Backend extracts the image
+4. Backend extracts data using OCR.
+5. UI shows and edit the expense.
+6. User sign up and login (Later step)
+
+_________
+
+Milestones (5).
+
+0/5:
+- configure the .Net 9 project
+- Swagger needs to be installed 
+- API needs to be reachable/accessed. 
+
+1/5: First Real web API Feature (no auth, no OCR)
+⭐ Goal: User uploads and views receipt images. 
+API:
+- POST /api/receipts -> upload image
+- GET /api/receipts -> list receipts 
+- GET /api/receipts{id} -> get the receipt details
+
+
+UI:
+- Upload page (file picker)
+- Receipts list page 
+- Receipt details Page (show images) 
+
+
+ 
