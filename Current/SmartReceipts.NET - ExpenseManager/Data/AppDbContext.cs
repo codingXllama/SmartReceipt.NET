@@ -9,5 +9,6 @@ namespace SmartReceipts.NET.Data
 
 
         public DbSet<Receipt> Receipts => Set<Receipt>();
+        public DbSet<Expense> Expenses => Set<Expense>();
     }
 }
