@@ -15,6 +15,12 @@
 7. [Features](#-features)
 
 
+## ✅ Features
+1. Home page & receipt list pages.
+2. Upload Receipt
+3. Review expenses
+4. *Authentication
+
 ##  E - Issue
 
 1. Most receipt scanning apps collect user data and may share it with third parties, exposing users to unwanted advertising.
@@ -32,7 +38,7 @@
   4. Total amount spent
   5. Itemized list of purchased products with prices
   6. Provides a clear, easy-to-read summary of expenses.
-  7. * Protects user privacy by ensuring that no personal information is collected or shared.
+  7. *Protects user privacy by ensuring that no personal information is collected or shared.
 
 
 ## P - Proposal / Plan / Payoff
@@ -47,22 +53,41 @@
 2. Serves as a foundation for future enhancements like reporting, analytics, or integrations.
 
 
-##  Software Architecture Diagram
+###  Software Architecture Diagram
 
 <img width="684" height="548" alt="SmartReceipt NET _ Receipt Scanning   Expense Analytics drawio" src="https://github.com/user-attachments/assets/7cc081eb-f5ea-4eee-9141-89abd756e1d7" > 
 
 
 
-## Class Diagram
+### Class Diagram
 ## <img width="656" height="1014" alt="image" src="https://github.com/user-attachments/assets/22894050-81bb-4eab-a16f-75aaf4c7a733" />
 
-<img width="4370" height="1084" alt="smartReceiptApp-Class Diagram" src="https://github.com/user-attachments/assets/68568271-12d8-4eca-9535-ea0f4cf67525" />
+<!-- <img width="4370" height="1084" alt="smartReceiptApp-Class Diagram" src="https://github.com/user-attachments/assets/68568271-12d8-4eca-9535-ea0f4cf67525" /> -->
+
+## Tech Stack
+1. .NET 10
+2. ASP.NET Core Web API
+3. SQLIte (EF Core)
+4. Blazor (UI)
+5. Swagger (API Testing)
+
+## Getting Started
+
+### Prerequisites
+- .NET SDK 9 or later
+- Git
+
+### Run locally
+git clone https://github.com/codingXllama/SmartReceipt.NET.git
+cd "SmartReceipt.NET\Current\SmartReceipts.NET - ExpenseManager"
+dotnet restore
+dotnet ef database update
+dotnet run
+
+👉To Open:
+1. API & UI: https://localhost:5170
+2. Swagger: https://localhost:5170/swagger
 
 
 
 
-## ✅ Features
-1. Home page & receipt list pages.
-2. Upload Receipt
-3. Review expenses
-4. *Authentication
